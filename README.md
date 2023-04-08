@@ -101,8 +101,9 @@ I have acquired strong programming skills and proficiency in programming languag
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FFFIND&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=FFFIND&show_icons=true&count_private=true&hide_border=true&theme=cobalt" align="left" style="width: 100%" />  
+<br/>  
 
 </td></tr></table>  
 
