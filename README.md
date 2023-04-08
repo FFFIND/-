@@ -112,7 +112,7 @@ I have acquired strong programming skills and proficiency in programming languag
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=FFFIND&&style=flat-square)  
+![Visitors](https://komarev.com/ghpvc/?username=FFFIND&&style=flat-square)  
   
 
 <br/>  
